@@ -81,6 +81,7 @@ Knut has not done all work by himself, here is the full list of the projects [co
 Mermaid is supported in a number of publishing systems and editors. Please report if a plugin/editor is missing from the list below:
 
 * [Markdown Plus](https://mdp.tylingsoft.com/) - Markdown editor with extra features
+* [Github + Mermaid](https://github.com/BackMarket/github-mermaid-extension) - Adds Mermaid support to GitHub Markdown
 * [gitbook-plugin](https://github.com/JozoVilcek/gitbook-plugin-mermaid)
 * [Confluence plugin](https://marketplace.atlassian.com/plugins/org.anvard.atlassian.mermaid-plugin/server/overview)
 * [Using mermaid via docpad](http://nauvalatmaja.com/2015/01/13/rendering-mermaid-in-docpad/)
